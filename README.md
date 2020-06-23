@@ -1,5 +1,5 @@
 # CovidGoWhere
-An app to help me track if I have been near a Covid-19 cluster within Singapore based on the list of locations provided by MOH and my phones GPS data. Purpose of this app is to provide the public with more awareness of their risk exposure to known clusters. The app also protects privacy of the user by first not collecting any personal identifier or device identifier, and secondly not uploading any data (including meta-data typically used for ad placements)
+An app to help track if one have been near a Covid-19 cluster within Singapore based on the list of locations provided by MOH and ones device's GPS data. Purpose of this app is to provide the public with more awareness of their risk exposure to known clusters. The app also protects privacy of the user by first not collecting any personal identifier or device identifier, and secondly not uploading any data (including meta-data typically used for ad placements). 
 
 # Goals of the app
 1. Store device location & time data locally.
