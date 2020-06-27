@@ -12,3 +12,4 @@ An app to help track if one have been near a Covid-19 cluster within Singapore b
 1. Setup REGEX to parse street addresses from here: https://www.gov.sg/article/covid-19-public-places-visited-by-cases-in-the-community-during-infectious-period and radius from server. Radius will vary because of building sizes, and preferably we want to cover the entire building area since air conditioning is central in a building.  
 2. Track location based on this: https://code.google.com/archive/p/open-gpstracker/source/code/source
 3. Compare intersection of venn diagram radius with personal radius of 250m.
+4. Enable app scanning of QR code check-ins in order to record better location data.
